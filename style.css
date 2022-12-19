@@ -12,31 +12,22 @@
 
 .container {
   position: relative;
+  background-color: white;
+  border: black solid 1px;
 }
 
-.container-preview-text {
-  display: flex;
-  justify-content: center;
+.container-text {
+  position: relative;
+}
+
+.text {
   position: absolute;
-  width: 100%;
-  height: 100%;
-}
-
-.text-preview {
   color: white;
   font-size: 30px;
   text-shadow: 5px 5px 5px black;
-  align-content: center;
 }
 
-.container-preview-image {
-  background-color: white;
-  border: black solid 1px;
-  width: 100%;
-  height: 100%;
-}
-
-.image-preview {
+.image {
   border: black solid 1px;
   height: 100%;
   width: 100%;
