@@ -9,3 +9,12 @@
   width: 80%;
   margin: auto;
 }
+
+.container-meme {
+  position: relative;
+}
+
+.text-meme {
+  color: white;
+  position: absolute;
+}
