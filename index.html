@@ -17,19 +17,24 @@
     <header class="header">
       <h1 class="h1-header">Gerador de memes!!!</h1>
     </header>
-    <section class="container">
+    <section class="container-section">
       <div class="input-group">
         <label for="text-input" class="input-group-text">Texto</label>
-        <input class="form-control" id="text-input" name="text-input"/>
+        <textarea class="form-control" id="text-input" name="text-input"></textarea>
       </div>
 
       <div class="input-group mb-3">
         <input type="file" class="form-control" id="meme-insert">
       </div>
 
-      <div class="container-preview" id="meme-image-container">
-        <h5 class="text-preview" id="meme-text"></h5>
-        <img class="image-preview" id="meme-image" src="" alt="">
+      <div class="container">
+        <div class="container-preview-text">
+          <h5 class="text-preview" id="meme-text"></h5>
+        </div>
+
+        <div class="container-preview-image" id="meme-image-container">
+          <img class="image-preview" id="meme-image" src="" alt="">
+        </div>
       </div>
 
     </section>
