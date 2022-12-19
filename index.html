@@ -20,7 +20,7 @@
     <section class="container">
       <div class="input-group">
         <label for="text-input" class="input-group-text">Texto</label>
-        <input class="form-control" id="text-input" name="text-input" oninput="inputValue(this)" />
+        <input class="form-control" id="text-input" name="text-input"/>
       </div>
 
       <div id="meme-image-container">
@@ -28,11 +28,6 @@
       </div>
     </section>
   </main>
-  <script>
-    function inputValue(text) {
-      document.getElementById('meme-text').innerText = text.value;
-    }
-  </script>
   <script src="./script.js"></script>
 </body>
 
