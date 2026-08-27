@@ -1,13 +1,31 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Meme Generator
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+Gerador de memes no navegador, com upload de imagem, texto personalizado, modelos prontos e estilos de borda.
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+## Funcionalidades e aprendizados
+
+- Gerador de memes no navegador
+- Código organizado para estudo e evolução
+- Prática das tecnologias utilizadas no repositório
+
+## Tecnologias
+
+- HTML5
+- CSS3
+- JavaScript
+
+## Como executar
+
+```bash
+git clone https://github.com/rita-moura/3-Project-Trybe-Meme-Generator.git
+cd 3-Project-Trybe-Meme-Generator
+```
+Abra o arquivo `index.html` no navegador.
+
+## Contexto
+
+Projeto desenvolvido durante a formação da [Trybe](https://www.betrybe.com/) para consolidar conhecimentos por meio de uma atividade prática.
+
+## Autoria
+
+Desenvolvido por [Rita Moura](https://github.com/rita-moura).
